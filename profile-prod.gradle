@@ -1,0 +1,7 @@
+dependencies {
+    compile 'org.springframework:spring-core:4.2.3.RELEASE'
+    compile 'org.springframework:spring-beans:4.2.3.RELEASE'
+    compile 'org.springframework:spring-context:4.2.3.RELEASE'
+}
+
+
